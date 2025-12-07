@@ -1,6 +1,7 @@
 # Lumina - Creative Suite Landing Page
 
-![Lumina Preview](https://via.placeholder.com/1200x630/0A0A0A/FF6B00?text=Lumina+Creative+Suite)
+![Lumina Preview](![Uploading image.png…]()
+)
 
 A modern, sleek landing page for a creative suite application built with React, TypeScript, and Vite.
 
