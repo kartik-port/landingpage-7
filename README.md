@@ -1,20 +1,80 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# Lumina - Creative Suite Landing Page
 
-# Run and deploy your AI Studio app
+![Lumina Preview](https://via.placeholder.com/1200x630/0A0A0A/FF6B00?text=Lumina+Creative+Suite)
 
-This contains everything you need to run your app locally.
+A modern, sleek landing page for a creative suite application built with React, TypeScript, and Vite.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1hlxEb6qWVcZDBHPuvh7pPDWtxOtHa-nE
+## Features
 
-## Run Locally
+- Smooth scrolling with Lenis
+- Responsive design
+- Modern UI with gradient effects
+- Interactive components
 
-**Prerequisites:**  Node.js
+## Tech Stack
 
+- React 19
+- TypeScript
+- Vite
+- Tailwind CSS
+- Lenis (smooth scroll)
+- Lucide React (icons)
 
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+## Installation
+
+1. Clone the repository:
+```bash
+git clone https://github.com/kartik-port/landingpage-7.git
+cd landingpage-7
+```
+
+2. Install dependencies:
+```bash
+npm install
+```
+
+## Running the Project
+
+Start the development server:
+```bash
+npm run dev
+```
+
+Open your browser and visit `http://localhost:5173`
+
+## Build for Production
+
+```bash
+npm run build
+```
+
+Preview the production build:
+```bash
+npm run preview
+```
+
+## Project Structure
+
+```
+├── components/
+│   ├── AppPreview.tsx
+│   ├── CallToAction.tsx
+│   ├── CaseStudies.tsx
+│   ├── Features.tsx
+│   ├── Footer.tsx
+│   ├── Hero.tsx
+│   ├── Navbar.tsx
+│   ├── Pricing.tsx
+│   ├── Stats.tsx
+│   └── Workflow.tsx
+├── App.tsx
+├── index.tsx
+├── index.html
+├── package.json
+├── tsconfig.json
+└── vite.config.ts
+```
+
+## License
+
+MIT
