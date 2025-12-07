@@ -1,7 +1,6 @@
-# Lumina - Creative Suite Landing Page
+# Otisium - Creative Suite Landing Page
 
-![Lumina Preview](![Uploading image.png…]()
-)
+![Otisium Preview](./preview.png)
 
 A modern, sleek landing page for a creative suite application built with React, TypeScript, and Vite.
 
