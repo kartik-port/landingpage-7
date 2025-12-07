@@ -1,6 +1,6 @@
 # Otisium - Creative Suite Landing Page
 
-![Otisium Preview](./preview.png)
+![Otisium Preview](<img width="1899" height="915" alt="Image" src="https://github.com/user-attachments/assets/ee769b26-8960-4a8c-b4d2-8493820439f2" />)
 
 A modern, sleek landing page for a creative suite application built with React, TypeScript, and Vite.
 
